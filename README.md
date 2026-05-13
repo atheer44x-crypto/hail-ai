@@ -1,2 +1,0 @@
-# hail-ai
-ai
